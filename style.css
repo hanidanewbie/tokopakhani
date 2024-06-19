@@ -1,0 +1,71 @@
+body{
+  background-color: grey;
+}
+.pertama{
+  background-color: #5A639C;
+  font-family: Monospace;
+  text-align: center;
+  border: 2px,solid;
+  margin-top: 2px;
+  
+}
+.kedua{
+  background-color: #7776B3;
+  font-family: Monospace;
+  text-align: center;
+  border: 2px,solid;
+  margin-top: 5px;
+  
+}
+.kepala{
+  font-family: Monospace;
+  text-align: center;
+  font-size: 50px;
+  background:#3572EF;
+  color:white;
+  margin-bottom: 20px;
+  border: 2px,solid black;
+}
+.ketiga{
+  font-family: Monospace;
+  background-color: #9B86BD;
+  text-align: center;
+  border: 2px,solid;
+  margin-top: 5px;
+}
+
+.keempat{
+  font-family: Monospace;
+  background-color: #E2BBE9;
+  text-align: center;
+  border: 2px,solid;
+  margin-top: 5px;
+}
+.penutup{
+  font-family: Monospace;
+  text-align: center;
+}
+.kelima{
+  font-family: Monospace;
+  background-color: #EBECED;
+  text-align: center;
+  border: 2px,solid;
+  margin-top: 5px;
+}
+.div.kelima{
+  color:pink;
+}
+.bergerak{
+  background-color: white;
+  color: black;
+  font-family: Monospace;
+  border:2px,solid;
+  
+}
+
+.bergerak a{
+  background-color: white;
+  color: black;
+  font-family: Monospace;
+}
+
